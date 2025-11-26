@@ -11,9 +11,11 @@ Built as a learning project for Unity and game development basics.
 
 ## 📦 Download (Windows)
 
-Download the latest playable `.exe` build from the **Releases** page:
+Download the latest playable build from the **Releases** page:
 
-👉 **[https://github.com/YOUR_USERNAME/YOUR_REPO/releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)**
+👉 **[https://github.com/Bethlehem-Tesfaye/flappy-bird-unity/releases/tag/v1.0](https://github.com/Bethlehem-Tesfaye/flappy-bird-unity/releases/tag/v1.0)**
+
+After downloading, extract the ZIP file and run the `.exe` to start playing.
 
 Extract the ZIP → run `Flappy.exe`.
 
